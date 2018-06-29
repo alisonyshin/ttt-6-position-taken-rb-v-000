@@ -1,3 +1,4 @@
 # code your #position_taken? method here!
 
-position taken
+def position_taken(index)
+  if 
